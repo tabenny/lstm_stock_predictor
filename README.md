@@ -1,6 +1,6 @@
 # LSTM Stock Predictor
 
-![deep-learning.jpg](images/deep-learning.jpg)
+![deep-learning.jpg](Images/deep-learning.jpg)
 
 This project is using 2 approaches to predict the price of Bitcoin on 11th day based on the price in the last 10 days
 
@@ -9,9 +9,9 @@ This project is using 2 approaches to predict the price of Bitcoin on 11th day b
 
 Based on the Closing Price Model, the following image shows the real and predicated values
 
-![losingpricemodelprediction.png](images/closingpricemodelprediction.png)
+![losingpricemodelprediction.png](Images/closingpricemodelprediction.png)
 
 
 Based on the Fear and Greed Index Model, the following image shows the real and predicated values
 
-![FNGPrediction.png](images/FNGPrediction.png)
+![FNGPrediction.png](Images/FNGPrediction.png)
